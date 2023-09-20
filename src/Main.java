@@ -1,6 +1,6 @@
 import java.util.Random;
 
-public class Main {
+public class Main  {
 
     public static int bossHeals = 700;
     public static int bossDamage = 50;
